@@ -1,5 +1,5 @@
 /*
-Ahmad Gonzalez@00639446
+Ahmad Gonzalez
 CPS 272 Machine Problem 1 Part 2
 Binary search function used to find the key value in an array.
 */
