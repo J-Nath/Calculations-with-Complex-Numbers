@@ -24,7 +24,7 @@ template <typename T> int search(const T arr[], int first, int last, const T& ta
 	bool found = false;
 	int count = 0;
 
-	while (first <= last && !found) // Loop terminates when the key is found or at the end of the array list.
+	while (first <= last && !found) // Loop terminates when the key is found or at the end  of the  array list.
 	{
     	mid = (first + last) / 2;//Calcualtes the mid point to compare.
 
